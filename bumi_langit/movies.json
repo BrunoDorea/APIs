@@ -1,7 +1,16 @@
 [
     {
-        "title": "gundala",
+        "title": "gundala: son of lightning",
         "year": "2019",
+        "resume": "Sancaka has lived on the streets since his parents left him. Living a hard life, Sancaka survives by thinking about his own safety. When the condition of the city gets worse and injustice rages throughout the country, Sancaka must decide whether he continues to live to look after himself or rise to become hero for the oppressed.",
+        "category": [
+            {"type": "superhero"},
+            {"type": "comic book"},
+            {"type": "action"},
+            {"type": "drama"}
+        ],
+        "country of origin": "Indonesia",
+        "runtime": "123 min",
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/cover/gundala_2019.jpg",
         "logoUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/Gundala.jpg",
         "bannerUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/bg/bgGundala.png"
@@ -9,6 +18,12 @@
     {
         "title": "sri asih",
         "year": "2022",
+        "resume": "",
+        "category": [
+            {"type": ""}
+        ],
+        "country of origin": "",
+        "runtime": " min",
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/cover/sri-asih_2022.jpg",
         "logoUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/SriAsih.jpg",
         "bannerUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/bg/bgSriAsih.jpg"
