@@ -87,5 +87,30 @@
         "movies": [
             {"title": "","year": ""}
         ]
+    },
+    {
+        "id": 4,
+        "name": "sembrani",
+        "real name":"tangguh",
+        "description": "Tangguh, A generous young man who gets his superpowers from a spaceship that crashed into the Mountain Crater, Dieng. He met dying Commander Otohrb from Rhistuty Planet. At the last moment, Otohrb gave Tangguh his power and become Sembrani. Sembrani can fly, create magnetic fields, control metal objects, and neutralize toxins.",
+        "height":"176 cm",
+        "weight":"68 kg",
+        "powers":[
+            {"name": "fly"},
+            {"name": "create magnetic fields"},
+            {"name": "control metal objects"},
+            {"name": "neutralize toxins"}
+        ],
+        "allies": [
+            {"name": "gundala"}
+        ],
+        "enemies": [
+            {"name": "ghazul"}
+        ],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/sembrani.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Sembrani.jpg",
+        "movies": [
+            {"title": "","year": ""}
+        ]
     }
 ]
