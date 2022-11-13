@@ -2,11 +2,11 @@
     {
         "id": 1,
         "name": "gundala",
-        "real name":"sancaka",
+        "real name": "sancaka",
         "description": "A genius engineer, Sancaka, was obsessed to invent an anti-lightning serum. In a freak accident, Sancaka was struck by a lightning, only to find out that he was actually adopted by Kronz, the King of Kingdom of Lightning. Kronz gave Sancaka a magic necklace that could transform him into a superhuman being, Gundala. Gundala is also known for his intuition in solving complicated crime cases. In Bumilangit Cinematic Universe, Sancaka works as a security guard and part-time mechanic at a printing factory. Since he was a child, he has shown signs of brilliance in tinkering with electrical products, but is afraid of lightning and storms that seem to always target him. One day, Sancaka helps his neighbor, Wulan, against some thugs who harass her. The thugs retaliated by attacking him at night while he was working in the factory and attempted to kill him by throwing Sancaka from the factory roof. After Sancaka’s body fell to the ground, a bolt of lightning struck him and revived him, giving him superhuman strength.",
-        "height":"172 cm",
-        "weight":"68 kg",
-        "powers":[
+        "height": "172 cm",
+        "weight": "68 kg",
+        "powers": [
             {"name": "possessed the ability to blast lightning bolts from his palm at varying intensities"},
             {"name": "could hit using a lightning punch and moved as fast as typhoon wind"}
         ],
@@ -34,14 +34,11 @@
     {
         "id": 2,
         "name": "sri asih",
-        "real name":"nani wijaya",
+        "real name": "nani wijaya",
         "description": "",
-        "height":"172 cm",
-        "weight":"58 kg",
-        "powers":[
-            {"name": ""},
-            {"name": ""}
-        ],
+        "height": "172 cm",
+        "weight": "58 kg",
+        "powers": [],
         "allies": [
             {"name": "siti gahara"},
             {"name": "gundala"},
@@ -67,11 +64,11 @@
     {
         "id": 3,
         "name": "virgo",
-        "real name":"riani",
+        "real name": "riani",
         "description": "Riani is a student who has Synesthesia. She can see sounds and hear colors. This condition makes her very good at playing music. Over time, her abilities developed. Riani can turn light into sparks of fire and flames, and manipulate light so she can appear invisible.",
-        "height":"173 cm",
-        "weight":"68 kg",
-        "powers":[
+        "height": "173 cm",
+        "weight": "68 kg",
+        "powers": [
             {"name": "turns light into flames"},
             {"name": "invisibility"}
         ],
@@ -79,23 +76,19 @@
             {"name": "kapten halilintar"},
             {"name": "gundala"}
         ],
-        "enemies": [
-            {"name": ""}
-        ],
+        "enemies": [],
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/virgo.jpg",
         "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Virgo.jpg",
-        "movies": [
-            {"title": "","year": ""}
-        ]
+        "movies": []
     },
     {
         "id": 4,
         "name": "sembrani",
-        "real name":"tangguh",
+        "real name": "tangguh",
         "description": "Tangguh, A generous young man who gets his superpowers from a spaceship that crashed into the Mountain Crater, Dieng. He met dying Commander Otohrb from Rhistuty Planet. At the last moment, Otohrb gave Tangguh his power and become Sembrani. Sembrani can fly, create magnetic fields, control metal objects, and neutralize toxins.",
-        "height":"176 cm",
-        "weight":"68 kg",
-        "powers":[
+        "height": "176 cm",
+        "weight": "68 kg",
+        "powers": [
             {"name": "fly"},
             {"name": "create magnetic fields"},
             {"name": "control metal objects"},
@@ -109,24 +102,20 @@
         ],
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/sembrani.jpg",
         "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Sembrani.jpg",
-        "movies": [
-            {"title": "","year": ""}
-        ]
+        "movies": []
     },
     {
         "id": 5,
         "name": "si buta dari gua hantu",
-        "real name":"barda mandrawata",
+        "real name": "barda mandrawata",
         "description": "In revenging the death of his father and his fiancee, Barda Mandrawata self-blinded his eyes to defeat Mata Malaikat (“Angel Eyes”), a highly-skilled blind nemesis. Barda became a legendary warior known as Si Buta dari Gua Hantu. In his stories, Si Buta was a wanderer, travelling around many parts of the country accompanied by his loyal monkey, Wanara.",
-        "height":"182 cm",
-        "weight":"80 kg",
-        "powers":[
+        "height": "182 cm",
+        "weight": "80 kg",
+        "powers": [
             {"name": "mastered the martial arts of sword and stick fighting"},
             {"name": "possessed Sound Differentiating skill"}
         ],
-        "allies": [
-            {"name": ""}
-        ],
+        "allies": [],
         "enemies": [
             {"name": "leak hitam"},
             {"name": "mata malaikat"},
@@ -134,18 +123,16 @@
         ],
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/sibuta.jpg",
         "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Sibuta.jpg",
-        "movies": [
-            {"title": "","year": ""}
-        ]
+        "movies": []
     },
     {
         "id": 6,
         "name": "godam",
-        "real name":"awang",
+        "real name": "awang",
         "description": "A failed coup attempt in planet Godam forced a pair of warlord parents to abandon their baby. The baby was found and later raised by a group of criminals. Named Godam, the boy grew up to become adventurer and in his journey, he retrieved a mighty armor and robe, as well a magic ring. When Godam violated an oath, he was punished by trapping him inside the magic ring. Father of Truth later gave the ring to Awang, a humble human from earth. By wearing the ring, Awang could transform himself into Godam.",
-        "height":"178 cm",
-        "weight":"72 kg",
-        "powers":[
+        "height": "178 cm",
+        "weight": "72 kg",
+        "powers": [
             {"name": "possessed superhuman strength and was impenetrable by any means of weapon"},
             {"name": "could fly at supersonic speed"}
         ],
@@ -158,18 +145,16 @@
         ],
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/godam.jpg",
         "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-GOdam.jpg",
-        "movies": [
-            {"title": "","year": ""}
-        ]
+        "movies": []
     },
     {
         "id": 7,
         "name": "mandala",
-        "real name":"mandala",
+        "real name": "mandala",
         "description": "Mandala was raised by Nyi Nara Sati, the Queen of White Crocodile Demon. He later escaped and was trained by his uncle, Batara, the infamous One-Armed Warrior. Mandala became a great warrior himself; respected and feared by others.",
-        "height":"177 cm",
-        "weight":"71 kg",
-        "powers":[
+        "height": "177 cm",
+        "weight": "71 kg",
+        "powers": [
             {"name": "mastered the inner power skill of Gelombang Batu Karan"}
         ],
         "allies": [
@@ -181,18 +166,16 @@
         ],
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/mandala.jpg",
         "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Mandala.jpg",
-        "movies": [
-            {"title": "","year": ""}
-        ]
+        "movies": []
     },
     {
         "id": 8,
         "name": "nusantara",
-        "real name":"nelson",
+        "real name": "nelson",
         "description": "Tsazabo, one of the high-ranking officers in planet Alpha Century, chose a college student from Metropolis named Nelson to become an inter-galactic warrior. Using a technology that was 200 years more advanced than earth’s, Tsazabo transformed Nelson into Nusantara, a super human being. Nusantara first task was to capture Vorkil, a super-villain who had escaped from Alpha Century. In other episode, Nusantara gained his expertise in martial arts skills when he became the Dragonslayer Commander.",
-        "height":"178 cm",
-        "weight":"75 kg",
-        "powers":[
+        "height": "178 cm",
+        "weight": "75 kg",
+        "powers": [
             {"name": "could fly at the speed of sound;"},
             {"name": "possessed super human invulnerability"},
             {"name": "highly-skilled in martial arts"}
@@ -202,23 +185,19 @@
             {"name": "godam"},
             {"name": "aquanus"}
         ],
-        "enemies": [
-            {"name": ""}
-        ],
+        "enemies": [],
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/nusantara.jpg",
         "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Nusantara.jpg",
-        "movies": [
-            {"title": "","year": ""}
-        ]
+        "movies": []
     },
     {
         "id": 9,
         "name": "aquanus",
-        "real name":"dhanus / mardanus",
+        "real name": "dhanus / mardanus",
         "description": "Dhanus was born on Planet Zyba, a planet inhibited by amphibious humanoids. Dhanus was later raised on earth and became an aquatic superhero, Aquanus. His homebase, Berhala Island, was frequently chosen as the gathering place for his superhero friends. Aquanus also commanded a highly advanced submarine.",
-        "height":"185 cm",
-        "weight":"82 kg",
-        "powers":[
+        "height": "185 cm",
+        "weight": "82 kg",
+        "powers": [
             {"name": "could swim faster than any aquatic life forms and possessed a belt that could blast an ultra-powerful Rainbow Rays"}
         ],
         "allies": [
@@ -226,13 +205,33 @@
             {"name": "godam"},
             {"name": "maza"}
         ],
-        "enemies": [
-            {"name": ""}
-        ],
+        "enemies": [],
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/aquanus.jpg",
         "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Aquanus.jpg",
-        "movies": [
-            {"title": "","year": ""}
-        ]
+        "movies": []
+    },
+    {
+        "id": 10,
+        "name": "maza",
+        "real name": "kanigara",
+        "description": "When Kanigara woke up from his dream about Maza falling off from a cliff, a painting brush with a magic ring on its handle appeared in front of him. It was the voice of a giant spirit, Jin Kartubi, who revealed to Kanigara that his dream was real and that it was his destiny to become Maza, the protector of the weak and innocent. Whenever Kanigara decided he wanted to become Maza, he would slam the magic brush into the ground. Simultaneously, the magic brush also transformed into a dagger, Maza‘s main weapon and a device to summon Jin Kartubi.",
+        "height": "177 cm",
+        "weight": "70 kg",
+        "powers": [
+            {"name": "possessed a brute-force strength and super human agility"},
+            {"name": "invincible when fighting together with his loyal and powerful giant"}
+        ],
+        "allies": [
+            {"name": "kartubi"},
+            {"name": "siti gahara"},
+            {"name": "gundala"},
+            {"name": "godam"},
+            {"name": "sri asih"},
+            {"name": "aquanus"}
+        ],
+        "enemies": [],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/maza.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Maza.jpg",
+        "movies": []
     }
 ]

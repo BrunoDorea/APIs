@@ -1,11 +1,11 @@
 {
         "id": ,
         "name": "",
-        "real name":"",
+        "real name": "",
         "description": "",
-        "height":" cm",
-        "weight":" kg",
-        "powers":[
+        "height": " cm",
+        "weight": " kg",
+        "powers": [
             {"name": ""},
             {"name": ""}
         ],
