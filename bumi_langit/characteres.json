@@ -112,5 +112,30 @@
         "movies": [
             {"title": "","year": ""}
         ]
+    },
+    {
+        "id": 5,
+        "name": "si buta dari gua hantu",
+        "real name":"barda mandrawata",
+        "description": "In revenging the death of his father and his fiancee, Barda Mandrawata self-blinded his eyes to defeat Mata Malaikat (“Angel Eyes”), a highly-skilled blind nemesis. Barda became a legendary warior known as Si Buta dari Gua Hantu. In his stories, Si Buta was a wanderer, travelling around many parts of the country accompanied by his loyal monkey, Wanara.",
+        "height":"182 cm",
+        "weight":"80 kg",
+        "powers":[
+            {"name": "mastered the martial arts of sword and stick fighting"},
+            {"name": "possessed Sound Differentiating skill"}
+        ],
+        "allies": [
+            {"name": ""}
+        ],
+        "enemies": [
+            {"name": "leak hitam"},
+            {"name": "mata malaikat"},
+            {"name": "seruling sukma"}
+        ],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/sibuta.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Sibuta.jpg",
+        "movies": [
+            {"title": "","year": ""}
+        ]
     }
 ]
