@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "gundala",
+        "real name":"sancaka",
+        "height":"172 cm",
+        "weight":"68 kg",
+        "powers":[
+            {"name": ""},
+            {"name": ""}
+        ],
+        "allies": [
+            {"name": "merpati"},
+            {"name": "godam"},
+            {"name": "aquanus"},
+            {"name": "maza"},
+            {"name": "tira"}
+        ],
+        "enemies": [
+            {"name": "bocah atlantis"},
+            {"name": "doktor setan"},
+            {"name": "ghazul"},
+            {"name": "ki wilawuk"},
+            {"name": "pengkor"},
+            {"name": "xrephus"}
+        ],
+        "imageUrl": "",
+        "bgImageUrl": "",
+        "movies": [
+            {"title": "gundala", "year": 2020}
+        ]
+    },
+    {
+        "id": 2,
+        "name": "",
+        "real name":"",
+        "height":"",
+        "weight":"",
+        "powers":[
+            {"name": ""},
+            {"name": ""}
+        ],
+        "allies": [
+            {"name": ""},
+            {"name": ""},
+            {"name": ""}
+        ],
+        "enemies": [
+            {"name": ""}
+        ],
+        "imageUrl": "",
+        "movies": [
+            {"title": "","year": ""}
+        ]
+    }
+]
