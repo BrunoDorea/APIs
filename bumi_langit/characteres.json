@@ -233,5 +233,27 @@
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/maza.jpg",
         "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Maza.jpg",
         "movies": []
+    },
+    {
+        "id": 11,
+        "name": "tira",
+        "real name": "susie",
+        "description": "Susie was a college student expert in martial arts. When she donned her high-tech custome, Susie became Tira who vowed to fight crimes and injustice. Since the Nine Dragon Gates incident, Tira had always been accompanied by the spirits of the nine dragon demons. By meditating, Tira could summon the spirits that manifested into nine different giants.",
+        "height": "168 cm",
+        "weight": "57 kg",
+        "powers": [
+            {"name": "expert in multiple martial arts skills and using high-tech combat gadgets"},
+            {"name": "possessed the ability to summon mystical spirits"}
+        ],
+        "allies": [
+            {"name": "gundala"},
+            {"name": "godam"},
+            {"name": "aquanus"},
+            {"name": "maza"}
+        ],
+        "enemies": [],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/tira.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Tira.jpg",
+        "movies": []
     }
 ]
