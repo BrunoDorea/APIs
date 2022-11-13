@@ -210,5 +210,29 @@
         "movies": [
             {"title": "","year": ""}
         ]
+    },
+    {
+        "id": 9,
+        "name": "aquanus",
+        "real name":"dhanus / mardanus",
+        "description": "Dhanus was born on Planet Zyba, a planet inhibited by amphibious humanoids. Dhanus was later raised on earth and became an aquatic superhero, Aquanus. His homebase, Berhala Island, was frequently chosen as the gathering place for his superhero friends. Aquanus also commanded a highly advanced submarine.",
+        "height":"185 cm",
+        "weight":"82 kg",
+        "powers":[
+            {"name": "could swim faster than any aquatic life forms and possessed a belt that could blast an ultra-powerful Rainbow Rays"}
+        ],
+        "allies": [
+            {"name": "gundala"},
+            {"name": "godam"},
+            {"name": "maza"}
+        ],
+        "enemies": [
+            {"name": ""}
+        ],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/aquanus.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Aquanus.jpg",
+        "movies": [
+            {"title": "","year": ""}
+        ]
     }
 ]
