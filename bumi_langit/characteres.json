@@ -161,5 +161,28 @@
         "movies": [
             {"title": "","year": ""}
         ]
+    },
+    {
+        "id": 7,
+        "name": "mandala",
+        "real name":"mandala",
+        "description": "Mandala was raised by Nyi Nara Sati, the Queen of White Crocodile Demon. He later escaped and was trained by his uncle, Batara, the infamous One-Armed Warrior. Mandala became a great warrior himself; respected and feared by others.",
+        "height":"177 cm",
+        "weight":"71 kg",
+        "powers":[
+            {"name": "mastered the inner power skill of Gelombang Batu Karan"}
+        ],
+        "allies": [
+            {"name": "batara"},
+            {"name": "si buta dari gua hantu"}
+        ],
+        "enemies": [
+            {"name": "banyujaga"}
+        ],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/mandala.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Mandala.jpg",
+        "movies": [
+            {"title": "","year": ""}
+        ]
     }
 ]
