@@ -9,8 +9,9 @@
             {"type": "action"},
             {"type": "drama"}
         ],
-        "country of origin": "Indonesia",
+        "country of origin": "indonesia",
         "runtime": "123 min",
+        "director": "joko anwar",
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/cover/gundala_2019.jpg",
         "logoUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/Gundala.jpg",
         "bannerUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/bg/bgGundala.png"
@@ -18,12 +19,16 @@
     {
         "title": "sri asih",
         "year": "2022",
-        "resume": "",
+        "resume": "Alana does not understand why she is always overcome by anger. But she always tried to fight it. She was born during a volcanic eruption that separated her and her parents. She is adopted by a rich woman who tries to help her live a normal life. But as an adult, Alana discovers the truth about her origins. She's not an ordinary human. She can be good for life. Or become a ruin if she can not control her anger.",
         "category": [
-            {"type": ""}
+            {"type": "superhero"},
+            {"type": "comic book"},
+            {"type": "action"},
+            {"type": "drama"}
         ],
-        "country of origin": "",
-        "runtime": " min",
+        "country of origin": "indonesia",
+        "runtime": "134 min",
+        "director": "upi avianto",
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/cover/sri-asih_2022.jpg",
         "logoUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/SriAsih.jpg",
         "bannerUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/bg/bgSriAsih.jpg"
