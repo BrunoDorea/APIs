@@ -255,5 +255,27 @@
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/tira.jpg",
         "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Tira.jpg",
         "movies": []
+    },
+    {
+        "id": 11,
+        "name": "tora",
+        "real name": "tora (tombak raja)",
+        "description": "A Japanese police inspector named Kono who was raised by his adoptive father, Wilantoro, professor of the Astawaja martial arts school. Kono inherited the King’s Spear which is a relic of the kings of Japan and the inheritance book of karate knowledge from the fallen leaves of his late mother. With the King’s Spear, Kono was able to transform into an adisatria named Tora.",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "powers": [
+            {"name": "astawaja teachings from his foster father's teachings and the Fallen Leaves of his mother's legac"},
+            {"name": "the King's spear that can shorten and lengthen, and destroy anything it hits"}
+        ],
+        "allies": [
+            {"name": "herbintang"},
+            {"name": "gundala"},
+            {"name": "godam"},
+            {"name": "tira"}
+        ],
+        "enemies": [],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/tora.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-tora.jpg",
+        "movies": []
     }
 ]
