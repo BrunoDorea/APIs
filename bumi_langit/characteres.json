@@ -24,33 +24,42 @@
             {"name": "pengkor"},
             {"name": "xrephus"}
         ],
-        "imageUrl": "",
-        "bgImageUrl": "",
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/gundala.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Gundala.jpg",
         "movies": [
-            {"title": "gundala", "year": 2020}
+            {"title": "gundala", "year": 2019}
         ]
     },
     {
         "id": 2,
-        "name": "",
-        "real name":"",
-        "height":"",
-        "weight":"",
+        "name": "sri asih",
+        "real name":"nani wijaya",
+        "height":"172 cm",
+        "weight":"58 kg",
         "powers":[
             {"name": ""},
             {"name": ""}
         ],
         "allies": [
-            {"name": ""},
-            {"name": ""},
-            {"name": ""}
+            {"name": "siti gahara"},
+            {"name": "gundala"},
+            {"name": "godan"},
+            {"name": "nusantara"},
+            {"name": "virgo"},
+            {"name": "tira"}
         ],
         "enemies": [
-            {"name": ""}
+            {"name": "bocah atlantis"},
+            {"name": "doktor setan"},
+            {"name": "ghazul"},
+            {"name": "kancu rapethuk"},
+            {"name": "kelelawar hitam"},
+            {"name": "ki wilawuk"}
         ],
-        "imageUrl": "",
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/sri-asih.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-SriAsih.jpg",
         "movies": [
-            {"title": "","year": ""}
+            {"title": "sri asih","year": 2022}
         ]
     }
 ]

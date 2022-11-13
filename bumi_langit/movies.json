@@ -1,8 +1,14 @@
 [
     {
         "title": "gundala",
-        "year": "2020",
-        "imageUrl": "",
-        "bannerUrl": ""
+        "year": "2019",
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/Gundala.jpg",
+        "bannerUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/bg/bgGundala.png"
+    },
+    {
+        "title": "sri asih",
+        "year": "2022",
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/SriAsih.jpg",
+        "bannerUrl": "https://brunodorea.github.io/apis/bumi_langit/movies/bg/bgSriAsih.jpg"
     }
 ]
