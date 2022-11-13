@@ -277,5 +277,26 @@
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/tora.jpg",
         "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-tora.jpg",
         "movies": []
+    },
+    {
+        "id": 12,
+        "name": "herbintang",
+        "real name": "marno",
+        "description": "In a sibling fight, Marno was accidently stabbed with a mystical blade by his own brother. Marno was transported into another world by the spirits of the blade; the world where he was given the mystical power to become Herbintang by the Elderly of Light.",
+        "height": "172 cm",
+        "weight": "68 kg",
+        "powers": [
+            {"name": "could breathe out scorching fire from the power of the sun"},
+            {"name": "possessed a ninjutsu-style speed and agility as well as superhuman strength"}
+        ],
+        "allies": [
+            {"name": "gundala"},
+            {"name": "godam"},
+            {"name": "tira"}
+        ],
+        "enemies": [],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/herbintang.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Herbintang.jpg",
+        "movies": []
     }
 ]
