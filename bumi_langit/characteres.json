@@ -3,11 +3,12 @@
         "id": 1,
         "name": "gundala",
         "real name":"sancaka",
+        "description": "A genius engineer, Sancaka, was obsessed to invent an anti-lightning serum. In a freak accident, Sancaka was struck by a lightning, only to find out that he was actually adopted by Kronz, the King of Kingdom of Lightning. Kronz gave Sancaka a magic necklace that could transform him into a superhuman being, Gundala. Gundala is also known for his intuition in solving complicated crime cases. In Bumilangit Cinematic Universe, Sancaka works as a security guard and part-time mechanic at a printing factory. Since he was a child, he has shown signs of brilliance in tinkering with electrical products, but is afraid of lightning and storms that seem to always target him. One day, Sancaka helps his neighbor, Wulan, against some thugs who harass her. The thugs retaliated by attacking him at night while he was working in the factory and attempted to kill him by throwing Sancaka from the factory roof. After Sancaka’s body fell to the ground, a bolt of lightning struck him and revived him, giving him superhuman strength.",
         "height":"172 cm",
         "weight":"68 kg",
         "powers":[
-            {"name": ""},
-            {"name": ""}
+            {"name": "possessed the ability to blast lightning bolts from his palm at varying intensities"},
+            {"name": "could hit using a lightning punch and moved as fast as typhoon wind"}
         ],
         "allies": [
             {"name": "merpati"},
@@ -34,6 +35,7 @@
         "id": 2,
         "name": "sri asih",
         "real name":"nani wijaya",
+        "description": "",
         "height":"172 cm",
         "weight":"58 kg",
         "powers":[
@@ -60,6 +62,30 @@
         "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-SriAsih.jpg",
         "movies": [
             {"title": "sri asih","year": 2022}
+        ]
+    },
+    {
+        "id": 3,
+        "name": "virgo",
+        "real name":"riani",
+        "description": "Riani is a student who has Synesthesia. She can see sounds and hear colors. This condition makes her very good at playing music. Over time, her abilities developed. Riani can turn light into sparks of fire and flames, and manipulate light so she can appear invisible.",
+        "height":"173 cm",
+        "weight":"68 kg",
+        "powers":[
+            {"name": "turns light into flames"},
+            {"name": "invisibility"}
+        ],
+        "allies": [
+            {"name": "kapten halilintar"},
+            {"name": "gundala"}
+        ],
+        "enemies": [
+            {"name": ""}
+        ],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/virgo.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Virgo.jpg",
+        "movies": [
+            {"title": "","year": ""}
         ]
     }
 ]

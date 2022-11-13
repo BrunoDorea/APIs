@@ -1,0 +1,33 @@
+{
+        "id": ,
+        "name": "",
+        "real name":"",
+        "description": "",
+        "height":" cm",
+        "weight":" kg",
+        "powers":[
+            {"name": ""},
+            {"name": ""}
+        ],
+        "allies": [
+            {"name": ""},
+            {"name": ""},
+            {"name": ""},
+            {"name": ""},
+            {"name": ""},
+            {"name": ""}
+        ],
+        "enemies": [
+            {"name": ""},
+            {"name": ""},
+            {"name": ""},
+            {"name": ""},
+            {"name": ""},
+            {"name": ""}
+        ],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/",
+        "movies": [
+            {"title": "","year": ""}
+        ]
+    }
