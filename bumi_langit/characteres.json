@@ -137,5 +137,29 @@
         "movies": [
             {"title": "","year": ""}
         ]
+    },
+    {
+        "id": 6,
+        "name": "godam",
+        "real name":"awang",
+        "description": "A failed coup attempt in planet Godam forced a pair of warlord parents to abandon their baby. The baby was found and later raised by a group of criminals. Named Godam, the boy grew up to become adventurer and in his journey, he retrieved a mighty armor and robe, as well a magic ring. When Godam violated an oath, he was punished by trapping him inside the magic ring. Father of Truth later gave the ring to Awang, a humble human from earth. By wearing the ring, Awang could transform himself into Godam.",
+        "height":"178 cm",
+        "weight":"72 kg",
+        "powers":[
+            {"name": "possessed superhuman strength and was impenetrable by any means of weapon"},
+            {"name": "could fly at supersonic speed"}
+        ],
+        "allies": [
+            {"name": "aquanus"}
+        ],
+        "enemies": [
+            {"name": "bocah atlantis"},
+            {"name": "doktor setan"}
+        ],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/godam.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-GOdam.jpg",
+        "movies": [
+            {"title": "","year": ""}
+        ]
     }
 ]
