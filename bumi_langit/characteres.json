@@ -324,5 +324,26 @@
         "movies": [
             {"title": "gundala","year": 2019}
         ]
+    },
+    {
+        "id": 13,
+        "name": "ki wilawuk",
+        "real name": "wilawuk",
+        "description": "Ki Wilawuk, an ancient powerful villain, was killed by Tumenggung Wiralaga, one of the warriors of Panembahan Senopati. His head and his body corpse were buried separately and far apart. However, because of his mystical power, Ki Wilawuk rose from the death by drinking human blood. Ki Wilawuk vowed vengeance towards all the descendants of Tumenggung Wiralaga.",
+        "height": "170 cm",
+        "weight": "68 kg",
+        "powers": [
+            {"name": "one of the intriguing evil nemesiswho possessed the Rawa Rontek skill"},
+            {"name": "impervious to all weapons except to Dragon Eyelid metal"}
+        ],
+        "allies": [],
+        "enemies": [
+            {"name": "gundala"}
+        ],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/ki-wilawuk.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Kiwilawuk.jpg",
+        "movies": [
+            {"title": "gundala","year": 2019}
+        ]
     }
 ]
