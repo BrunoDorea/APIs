@@ -298,5 +298,31 @@
         "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/herbintang.jpg",
         "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Herbintang.jpg",
         "movies": []
+    },
+    {
+        "id": 12,
+        "name": "pengkor",
+        "real name": "wisnu atmaja",
+        "description": "Wisnu Atmaja was born with physical imperfections, yet highly intelligent. His grotesque face and body got him the name Pengkor. Years of harassment shaped Pengkor‘s revenging ambition to conquer the world at all costs. Pengkor was also known to be an art connoisseur.",
+        "height": "162 cm",
+        "weight": "54 kg",
+        "powers": [
+            {"name": "a criminal mastermind who was brilliant in mathematics and science, yet manipulative and ruthless"}
+        ],
+        "allies": [
+            {"name": "bocah atlantis"},
+            {"name": "ghazul"}
+        ],
+        "enemies": [
+            {"name": "gundala"},
+            {"name": "godam"},
+            {"name": "aquanus"},
+            {"name": "maza"}
+        ],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/pengkor.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Pengkor.jpg",
+        "movies": [
+            {"title": "gundala","year": 2019}
+        ]
     }
 ]
