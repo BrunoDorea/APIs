@@ -345,5 +345,19 @@
         "movies": [
             {"title": "gundala","year": 2019}
         ]
+    },
+    {
+        "id": 16,
+        "name": "agni",
+        "real name": "agni",
+        "description": "",
+        "height": " cm",
+        "weight": " kg",
+        "powers": [],
+        "allies": [],
+        "enemies": [],
+        "imageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/agni.jpg",
+        "bgImageUrl": "https://brunodorea.github.io/apis/bumi_langit/characteres/bg/Cover-Agni.jpg",
+        "movies": []
     }
 ]
